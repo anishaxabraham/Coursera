@@ -1,15 +1,41 @@
+* {
+  box-sizing: border-box;
+
+}
+
+
 h1 {
   margin-bottom: 15px;
   text-align: center;
-  background-color: "blue"
+  
 }
-
 p {
-  border: 1px solid black;
-  margin-bottom: 15px;
+	clear: right;
 }
-#p1 {
-  background-color: #A52A2A;
+#b3.smallbox {
+	background-color: #E0E962;
+}
+#b2.smallbox {
+	background-color: #E93636;
+}
+#b1.smallbox {
+	background-color: #F39292;
+}
+.bigbox {
+  border: 1px solid black;
+  background-color: #A9A9A9;
   width: 300px;
   height: 300px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+ 
 }
+.smallbox {
+	border: 1px solid black;
+  	width: 100px;
+  	height: 50px;
+  	float: right;
+
+}
+
