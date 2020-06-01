@@ -65,7 +65,7 @@ body {
 .container .jumbotron {
   margin-top: 20px;
 }
-.container > p{ 
+.container > h2{ 
   
   font-family: "Lora", sans-serif;
   font-weight: bold;
@@ -97,7 +97,7 @@ section {
   width: 100%;
 }
 @media (min-width: 1200px){
-  .container > p{ 
+  .container > h2{ 
   margin-top: 50px;
   padding : 10px 10px 0px 10px;
 }
@@ -144,7 +144,7 @@ section {
 }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
-    .container > p { 
+    .container > h2 { 
   margin-top: 50px;
   padding : 10px 10px 0px 10px;
 }
@@ -190,7 +190,7 @@ section {
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-    .container > p{ 
+    .container > h2{ 
   margin-top: 60px;
   padding : 10px 10px 0px 10px;
 }
@@ -243,7 +243,7 @@ section {
     padding-top: 30px;
     font-size:2.5em;
   }
-.container>p {
+.container>h2 {
       
   }
    .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
